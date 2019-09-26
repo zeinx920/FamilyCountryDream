@@ -1,5 +1,7 @@
 # FamilyCountryDream
 家国梦自动捡金币脚本
+
+运行  bash auto_tap.sh
   
 我用的手机是1280*720分辨率的
 
