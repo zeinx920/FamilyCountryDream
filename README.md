@@ -1,5 +1,5 @@
 # FamilyCountryDream
-家国梦自动捡金币脚本
+家国梦自动捡金币脚本,可以实现挂机采集资源
 
 # 使用方法
 运行  bash auto_tap.sh
